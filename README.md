@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Author: 
-X: @OduwaleJubreel
-Whatsapp: wa.me/7052006201
+- X: @OduwaleJubreel
+- Whatsapp: wa.me/7052006201
